@@ -1,0 +1,17 @@
+{
+  "appName": "MyApp",
+  "version": "1.0.0",
+  "author": "Mei HK",
+  "settings": {
+    "theme": "light",
+    "language": "vi",
+    "showNotifications": true
+  },
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "123456",
+    "databaseName": "my_database"
+  }
+}
